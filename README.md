@@ -55,14 +55,6 @@
 ## 🎯 Fun Fact:
 💡 *"The best way to predict the future is to create it."*  
 
----
-
-## 🚀 Keep Learning & Growing!
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Software+Developer+%7C+Student+%7C+Tech+Enthusiast">
-</p>
-
----
 [![](https://visitcount.itsvg.in/api?id=baranberke0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
