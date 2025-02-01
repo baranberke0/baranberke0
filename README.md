@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Baran Berke 
-<br><br>
 # 💫 About Me:
 🔭  I am an active student at Ankara University.<br>📫  How to reach me baranberkee0@gmail.com
 
